@@ -6,3 +6,4 @@ quay.io/coreos/kube-rbac-proxy:v1.1:
   - quay.io/ruohe/kube-rbac-proxy1
   - quay.io/ruohe/kube-rbac-proxy2
 quay.io/coreos/kube-rbac-proxy:/a+/: quay.io/ruohe/kube-rbac-proxy
+docker.io/rancher/rancher-agent:v2.6.4 registry.cn-hangzhou.aliyuncs.com/3-party
