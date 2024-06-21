@@ -2,7 +2,7 @@ quay.io:
   username: xxx
   password: xxxxxxxxx
   insecure: true
-registry.cn-beijing.aliyuncs.com:
+registry.cn-hangzhou.aliyuncs.com:
   username: xxx
   password: xxxxxxxxx
 docker.io:
