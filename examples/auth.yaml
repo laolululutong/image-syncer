@@ -3,8 +3,8 @@ quay.io:
   password: xxxxxxxxx
   insecure: true
 registry.cn-hangzhou.aliyuncs.com:
-  username: xxx
-  password: xxxxxxxxx
+  username: ${ACR_USER}
+  password: ${ACR_PASSWORD}
 docker.io:
   username: xxx
   password: xxxxxxxxxx
